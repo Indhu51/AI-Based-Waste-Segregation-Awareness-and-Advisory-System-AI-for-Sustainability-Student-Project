@@ -1,0 +1,2 @@
+# AI-Based-Waste-Segregation-Awareness-and-Advisory-System-AI-for-Sustainability-Student-Project
+AI-Based Waste Segregation Awareness and Advisory System is an AI for Sustainability student project developed under the 1M1B – IBM SkillsBuild AI + Sustainability Virtual Internship (AICTE). It educates users on correct waste segregation using AI-based classification and advisory guidance, supporting responsible consumption, recycling
